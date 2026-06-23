@@ -1,15 +1,8 @@
 # README
 
-<!-- Banner -->
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%"/>
-</p>
+<!-- Top Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Daniyal+Aftab+Mirza&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Purple+Team+Practitioner+%7C+Offensive+%26+Defensive+Security&descSize=16&descAlignY=50&descColor=c9d1d9"/>
 
-<!-- Title -->
-<h1 align="center">Hi 👋, I'm Daniyal</h1>
-<h3 align="center">aka <b>MDK-4203</b></h3>
-
-<!-- Animated Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Purple+Team+Practitioner+%F0%9F%9B%A1%EF%B8%8F;Secure+Full-Stack+Developer+%F0%9F%9A%80;Penetration+Tester+%F0%9F%94%90;SOC+Analyst+%26+Detection+Engineer+%F0%9F%94%8D;Malware+Researcher+%F0%9F%A7%AA;CTF+Platform+Architect+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG"/>
@@ -23,9 +16,14 @@
   <img src="https://komarev.com/ghpvc/?username=MDK-4203&style=flat-square&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 📝 About Me
+
+```text
+Purple Team practitioner and Cybersecurity student at Air University,
+focused on bridging offensive and defensive operations.
+```
 
 I don't just secure systems — **I break them first.** I blend offensive tradecraft like malware research and exploit development with defensive insights like SIEM detection engineering and AI-driven security automation. I learn by **building**: shipping secure full-stack portals with OWASP Top 10 controls baked in, architecting CTF competition platforms from scratch, developing dual-purpose network toolkits, and deploying open-source SOC stacks for real startups.
 
@@ -37,7 +35,7 @@ I don't just secure systems — **I break them first.** I blend offensive tradec
 - 🤝 **Collab:** Joint offensive/defensive work via [@Pause-n-Clause](https://github.com/Pause-n-Clause)
 - 🌍 **Community:** Founder of [ARZENs](https://github.com/Pause-n-Clause) (SECP-Registered) | Former Member, AUCSS Cyber Skills Club
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🚀 Languages and Tools I Use
 
@@ -111,21 +109,97 @@ I don't just secure systems — **I break them first.** I blend offensive tradec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🏗️ Notable Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**V.A.M.P.I.R.E**](https://github.com/MDK-4203) | Dual-purpose network toolkit — enterprise latency stabilization + offensive pentesting & DDoS simulation | Next.js, React, Python, Suricata, Tailwind CSS |
-| [**CTFd-less CTF Platform**](https://github.com/Pause-n-Clause) | Full-stack CTF competition platform from scratch — dynamic scoring, team management, live leaderboard | React, Flask, SQLite, Vanilla CSS |
-| **Custom Info-Stealer (Research)** | Lab-use malware research — browser data extraction via encrypted/obfuscated channels to build detection techniques | Python, Encryption Libraries |
-| **SOC Home Lab** | Full mini-SOC — Wazuh, pfSense, Suricata, ClamAV, MISP, OpenCTI, ELK Stack, Sysmon | Wazuh, pfSense, Suricata, ELK, Docker, OpenCTI |
-| **Academic Portals (NCSA)** | 31+ secure academic management portals with OWASP Top 10 controls and centralized CMS | React, Tailwind, Flask, Node.js, MySQL |
-| **Student DBMS Platform** | Full-stack assignment management system with role-based access for instructors and students | React, Flask, SQLite |
-| **LAN-Chat** | Platform-agnostic LAN communication tool with C++ backend and lightweight web frontend | C++, OpenMP, HTML, CSS, JS |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛠️ V.A.M.P.I.R.E</h3>
+      <p><b>Dual-purpose network toolkit</b> — enterprise latency stabilization + offensive pentesting & DDoS simulation</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"/>
+        <img src="https://img.shields.io/badge/Suricata-6DB33F?style=flat-square&logo=suricata" alt="Suricata"/>
+      </p>
+      <p><a href="https://github.com/MDK-4203">View Repo →</a></p>
+    </td>
+    <td width="50%">
+      <h3>🏴 CTFd-less CTF Platform</h3>
+      <p><b>Full-stack CTF platform</b> from scratch — dynamic scoring, team management, live leaderboard</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask" alt="Flask"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite" alt="SQLite"/>
+      </p>
+      <p><a href="https://github.com/Pause-n-Clause">View Org →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🧪 Info-Stealer (Research)</h3>
+      <p><b>Lab-use malware research</b> — browser data extraction via encrypted/obfuscated channels to build detection techniques</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"/>
+        <img src="https://img.shields.io/badge/Cryptography-A855F7?style=flat-square" alt="Crypto"/>
+      </p>
+    </td>
+    <td>
+      <h3>🔒 SOC Home Lab</h3>
+      <p><b>Full mini-SOC</b> — Wazuh, pfSense, Suricata, ClamAV, MISP, OpenCTI, ELK Stack, Sysmon</p>
+      <p>
+        <img src="https://img.shields.io/badge/Wazuh-1C7CB0?style=flat-square&logo=wazuh" alt="Wazuh"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" alt="Docker"/>
+        <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticsearch" alt="ELK"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🎓 Academic Portals (NCSA)</h3>
+      <p><b>31+ secure academic portals</b> with OWASP Top 10 controls and centralized CMS for Air University</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss" alt="Tailwind"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node.js"/>
+      </p>
+    </td>
+    <td>
+      <h3>💬 LAN-Chat</h3>
+      <p><b>Cross-device LAN communication</b> — C++ backend with OpenMP and lightweight web frontend</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B" alt="C++"/>
+        <img src="https://img.shields.io/badge/OpenMP-1E88E5?style=flat-square" alt="OpenMP"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JS"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MDK-4203&show_icons=true&theme=tokyonight&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117&hide_border=true&ring_color=A855F7" alt="GitHub Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=MDK-4203&theme=tokyonight&hide_border=true&ring_color=A855F7&fire=A855F7&dates=58A6FF" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDK-4203&layout=compact&theme=tokyonight&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=10" alt="Top Languages" height="170"/>
+</p>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MDK-4203/MDK-4203/blob/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MDK-4203/MDK-4203/blob/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://github.com/MDK-4203/MDK-4203/blob/output/github-snake-dark.svg"/>
+</picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🌐 Where to Find Me
 
@@ -141,29 +215,12 @@ I don't just secure systems — **I break them first.** I blend offensive tradec
   </a>
 </p>
 
----
+<br/>
 
-## 📊 GitHub Stats & Activity
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=I+learn+by+building.+I+secure+by+breaking.+I+defend+by+understanding+the+attack.&author=MDK-4203" alt="Random Dev Quote"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDK-4203&show_icons=true&theme=tokyonight&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117&hide_border=true&ring_color=A855F7" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=MDK-4203&theme=tokyonight&hide_border=true&ring_color=A855F7&fire=A855F7&dates=58A6FF" alt="GitHub Streak" height="170"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDK-4203&layout=compact&theme=tokyonight&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=10" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MDK-4203&theme=discord&no-frame=true&no-bg=true&column=7&title_color=A855F7" alt="GitHub Trophies" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDK-4203&bg_color=0d1117&color=A855F7&line=6D28D9&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
