@@ -14,71 +14,21 @@
   </a>
 </p>
 
-<p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 30" width="900" height="30">
-    <defs>
-      <linearGradient id="ng" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#E74C3C"/>
-        <stop offset="50%" stop-color="#3498DB"/>
-        <stop offset="100%" stop-color="#A855F7"/>
-      </linearGradient>
-      <filter id="glow" x="-5%" y="-300%" width="110%" height="700%">
-        <feGaussianBlur stdDeviation="4" result="b1"/>
-        <feGaussianBlur stdDeviation="10" result="b2"/>
-        <feGaussianBlur stdDeviation="20" result="b3"/>
-        <feMerge>
-          <feMergeNode in="b3"/>
-          <feMergeNode in="b2"/>
-          <feMergeNode in="b1"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <!-- Outer neon bloom -->
-    <rect x="0" y="11" width="900" height="8" rx="4" fill="url(#ng)" filter="url(#glow)" opacity="0.7"/>
-    <!-- Bright gradient core -->
-    <rect x="0" y="13" width="900" height="4" rx="2" fill="url(#ng)"/>
-    <!-- White-hot center -->
-    <rect x="0" y="14" width="900" height="2" rx="1" fill="white" opacity="0.6"/>
-  </svg>
-</p>
+<img width="100%" src="https://raw.githubusercontent.com/MDK-4203/MDK-4203/main/assets/glow-separator.svg" alt="separator"/>
 
 ## 📝 About Me
 
 I don't just secure systems — **I break them first.** I blend offensive tradecraft like malware research and exploit development with defensive insights like SIEM detection engineering and AI-driven security automation. I learn by **building**: shipping secure full-stack portals with OWASP Top 10 controls baked in, architecting CTF competition platforms from scratch, developing dual-purpose network toolkits, and deploying open-source SOC stacks for real startups.
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/🔭_Working_On-E74C3C?style=for-the-badge" alt="Working On"/></td>
-    <td>Penetration Testing, Bug Bounty Hunting, Secure Software Development</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/🌱_Learning-3498DB?style=for-the-badge" alt="Learning"/></td>
-    <td>Advanced Security Techniques, Exploit Development, AI-Driven Security Automation</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/💼_Projects-A855F7?style=for-the-badge" alt="Projects"/></td>
-    <td>Open Source Software &amp; Paid Full-Stack Web Development</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/💡_Passionate_About-E74C3C?style=for-the-badge" alt="Passion"/></td>
-    <td>Cybersecurity, Ethical Hacking, Building Secure Applications</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/🎯_Focus-3498DB?style=for-the-badge" alt="Focus"/></td>
-    <td>Vulnerability Assessment, Web App Security, SIEM Detection Engineering, Secure Coding</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/🤝_Collab-A855F7?style=for-the-badge" alt="Collab"/></td>
-    <td>Joint offensive/defensive work via <a href="https://github.com/Pause-n-Clause">@Pause-n-Clause</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/🌍_Community-E74C3C?style=for-the-badge" alt="Community"/></td>
-    <td>Founder of <a href="https://github.com/Pause-n-Clause">ARZENs</a> (SECP-Registered) | Former Member, AUCSS Cyber Skills Club</td>
-  </tr>
-</table>
+- 🔭 **Currently building:** Proprietary CTF infrastructure, Academic Portals, Pentesting Toolkit
+- 🌱 **Currently learning:** Advanced exploit development, AI-driven security automation, and threat hunting methodologies
+- 💼 **Open to:** Offensive, defensive, or purple team roles that reward technical depth and a builder mentality
+- 💡 **Philosophy:** *I learn by building. I secure by breaking. I defend by understanding the attack.*
+- 🎯 **Focus:** Vulnerability Assessment, Web Application Security, SIEM Detection Engineering, and Secure Coding Practices
+- 🤝 **Collab:** Joint offensive/defensive work via [@Pause-n-Clause](https://github.com/Pause-n-Clause)
+- 🌍 **Community:** Active Open Source Contributor
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=E74C3C,3498DB,A855F7&amp;height=40&amp;section=header&amp;text=%20&amp;fontSize=1&amp;fontColor=%230d1117"/>
+<img width="100%" src="https://raw.githubusercontent.com/MDK-4203/MDK-4203/main/assets/glow-separator.svg" alt="separator"/>
 
 ## 🚀 Languages and Tools I Use
 
@@ -152,7 +102,7 @@ I don't just secure systems — **I break them first.** I blend offensive tradec
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=E74C3C,3498DB,A855F7&amp;height=40&amp;section=header&amp;text=%20&amp;fontSize=1&amp;fontColor=%230d1117"/>
+<img width="100%" src="https://raw.githubusercontent.com/MDK-4203/MDK-4203/main/assets/glow-separator.svg" alt="separator"/>
 
 ## 🏗️ Notable Projects
 
@@ -221,28 +171,22 @@ I don't just secure systems — **I break them first.** I blend offensive tradec
   </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=E74C3C,3498DB,A855F7&amp;height=40&amp;section=header&amp;text=%20&amp;fontSize=1&amp;fontColor=%230d1117"/>
+<img width="100%" src="https://raw.githubusercontent.com/MDK-4203/MDK-4203/main/assets/glow-separator.svg" alt="separator"/>
 
 ## 📊 GitHub Stats & Activity
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="margin-top:4px;margin-bottom:2px">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=MDK-4203&amp;show_icons=true&amp;theme=radical&amp;title_color=A855F7&amp;icon_color=E74C3C&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;hide_border=true" alt="GitHub Stats" height="170"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=MDK-4203&show_icons=true&theme=radical&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=contribs" alt="GitHub Stats" height="170"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=MDK-4203&amp;theme=radical&amp;hide_border=true&amp;ring_color=A855F7&amp;fire=E74C3C&amp;dates=3498DB" alt="GitHub Streak" height="170"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=MDK-4203&show_icons=true&theme=radical&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=stars,prs,issues,contribs&custom_title=Total%20Contributions" alt="Total Contributions" height="170"/>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDK-4203&amp;layout=compact&amp;theme=radical&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;hide_border=true&amp;langs_count=10" alt="Top Languages" height="170"/>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDK-4203&amp;layout=donut&amp;theme=radical&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;hide_border=true&amp;langs_count=8" alt="Language Donut" height="170"/>
-    </td>
-  </tr>
-  <tr>
+</table>
+
+<tr>
     <td align="center" colspan="2">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDK-4203&amp;bg_color=0d1117&amp;color=A855F7&amp;line=7C3AED&amp;point=C084FC&amp;area=true&amp;hide_border=true" alt="Contribution Graph" width="100%"/>
     </td>
@@ -257,7 +201,7 @@ I don't just secure systems — **I break them first.** I blend offensive tradec
   <img alt="github-snake" src="https://github.com/MDK-4203/MDK-4203/blob/output/github-snake-dark.svg"/>
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=E74C3C,3498DB,A855F7&amp;height=40&amp;section=header&amp;text=%20&amp;fontSize=1&amp;fontColor=%230d1117"/>
+<img width="100%" src="https://raw.githubusercontent.com/MDK-4203/MDK-4203/main/assets/glow-separator.svg" alt="separator"/>
 
 ## 🌏 Where to Find Me
 
@@ -278,7 +222,5 @@ I don't just secure systems — **I break them first.** I blend offensive tradec
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;border=true&amp;border_color=A855F7&amp;quote=I+learn+by+building.+I+secure+by+breaking.+I+defend+by+understanding+the+attack.&amp;author=MDK-4203" alt="Quote"/>
 </div>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;customColorList=E74C3C,3498DB,A855F7&amp;height=100&amp;section=footer"/>
