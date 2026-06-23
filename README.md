@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=MDK-4203&amp;style=flat-square&amp;color=A855F7&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=E74C3C,3498DB,A855F7&amp;height=40&amp;section=header&amp;text=%20&amp;fontSize=1&amp;fontColor=%230d1117"/>
 
 ## 📝 About Me
 
@@ -63,7 +63,7 @@ I don't just secure systems — **I break them first.** I blend offensive tradec
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=E74C3C,3498DB,A855F7&amp;height=40&amp;section=header&amp;text=%20&amp;fontSize=1&amp;fontColor=%230d1117"/>
 
 ## 🚀 Languages and Tools I Use
 
@@ -137,7 +137,7 @@ I don't just secure systems — **I break them first.** I blend offensive tradec
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=E74C3C,3498DB,A855F7&amp;height=40&amp;section=header&amp;text=%20&amp;fontSize=1&amp;fontColor=%230d1117"/>
 
 ## 🏗️ Notable Projects
 
@@ -206,7 +206,7 @@ I don't just secure systems — **I break them first.** I blend offensive tradec
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=E74C3C,3498DB,A855F7&amp;height=40&amp;section=header&amp;text=%20&amp;fontSize=1&amp;fontColor=%230d1117"/>
 
 ## 📊 GitHub Stats & Activity
 
@@ -220,13 +220,16 @@ I don't just secure systems — **I break them first.** I blend offensive tradec
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDK-4203&amp;layout=donut-vertical&amp;theme=radical&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;hide_border=true&amp;langs_count=8" alt="Top Languages" height="300"/>
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDK-4203&amp;layout=compact&amp;theme=radical&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;hide_border=true&amp;langs_count=10" alt="Top Languages" height="170"/>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDK-4203&amp;layout=donut&amp;theme=radical&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;hide_border=true&amp;langs_count=8" alt="Language Donut" height="170"/>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDK-4203&amp;bg_color=0d1117&amp;color=A855F7&amp;line=E74C3C&amp;point=3498DB&amp;area=true&amp;hide_border=true" alt="Contribution Graph" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDK-4203&amp;bg_color=0d1117&amp;color=A855F7&amp;line=7C3AED&amp;point=C084FC&amp;area=true&amp;hide_border=true" alt="Contribution Graph" width="100%"/>
     </td>
   </tr>
 </table>
@@ -239,28 +242,28 @@ I don't just secure systems — **I break them first.** I blend offensive tradec
   <img alt="github-snake" src="https://github.com/MDK-4203/MDK-4203/blob/output/github-snake-dark.svg"/>
 </picture>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=E74C3C,3498DB,A855F7&amp;height=40&amp;section=header&amp;text=%20&amp;fontSize=1&amp;fontColor=%230d1117"/>
 
 ## 🌐 Where to Find Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mirza-daniyal-khan/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color=%233498DB" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;logoSize=auto" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Pause-n-Clause" target="_blank">
-    <img src="https://img.shields.io/badge/Pause_n_Clause-Org?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=%23A855F7" alt="Pause-n-Clause"/>
+    <img src="https://img.shields.io/badge/Join_Pause_n_Clause-6D28D9?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;logoSize=auto" alt="Pause-n-Clause"/>
   </a>
   <a href="mailto:mirzadaniyalkhan24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mirzadaniyalkhan24?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;color=%23E74C3C" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email_Me-E74C3C?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;logoSize=auto" alt="Email"/>
   </a>
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;border=true&amp;quote=I+learn+by+building.+I+secure+by+breaking.+I+defend+by+understanding+the+attack.&amp;author=MDK-4203" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;border=true&amp;border_color=A855F7&amp;quote=I+learn+by+building.+I+secure+by+breaking.+I+defend+by+understanding+the+attack.&amp;author=MDK-4203" alt="Quote"/>
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=E74C3C,3498DB,A855F7&amp;height=100&amp;section=footer"/>
