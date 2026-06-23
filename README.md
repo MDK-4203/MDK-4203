@@ -1,6 +1,13 @@
-<!-- Top Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=150&amp;section=header&amp;text=Daniyal+Aftab+Mirza&amp;fontSize=32&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=30&amp;desc=Purple+Team+Practitioner+%7C+Offensive+%26+Defensive+Security&amp;descSize=16&amp;descAlignY=50&amp;descColor=c9d1d9"/>
+<!-- Banner -->
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%"/>
+</p>
 
+<!-- Title -->
+<h1 align="center">Hi 👋, I'm Daniyal</h1>
+<h3 align="center">aka <b>MDK-4203</b></h3>
+
+<!-- Animated Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Purple+Team+Practitioner+%F0%9F%9B%A1%EF%B8%8F;Secure+Full-Stack+Developer+%F0%9F%9A%80;Penetration+Tester+%F0%9F%94%90;SOC+Analyst+%26+Detection+Engineer+%F0%9F%94%8D;Malware+Researcher+%F0%9F%A7%AA;CTF+Platform+Architect+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG"/>
@@ -18,35 +25,41 @@
 
 ## 📝 About Me
 
-<table align="center">
+```text
+Purple Team practitioner and Cybersecurity student at Air University,
+focused on bridging offensive and defensive operations.
+```
+
+I don't just secure systems — **I break them first.** I blend offensive tradecraft like malware research and exploit development with defensive insights like SIEM detection engineering and AI-driven security automation. I learn by **building**: shipping secure full-stack portals with OWASP Top 10 controls baked in, architecting CTF competition platforms from scratch, developing dual-purpose network toolkits, and deploying open-source SOC stacks for real startups.
+
+<table>
   <tr>
-    <td>
-      <p>
-        <img src="https://img.shields.io/badge/🎯_Purple_Team_Practitioner-A855F7?style=for-the-badge" alt="Purple Team"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/🎓_Air_University_Cybersecurity-1A1A2E?style=for-the-badge" alt="Education"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/🏢_Founder_@_ARZENs_(SECP)_-6D28D9?style=for-the-badge" alt="ARZENs"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/🤝_Collab_@_Pause_n_Clause-5865F2?style=for-the-badge" alt="Pause-n-Clause"/>
-      </p>
-    </td>
-    <td>
-      <p><b>I don't just secure systems — I break them first.</b></p>
-      <p>I blend offensive tradecraft like malware research and exploit development with defensive insights like SIEM detection engineering and AI-driven security automation.</p>
-      <p>I learn by <b>building</b>: shipping secure full-stack portals with OWASP Top 10 controls baked in, architecting CTF competition platforms from scratch, developing dual-purpose network toolkits, and deploying open-source SOC stacks for real startups.</p>
-      <br/>
-      <p>
-        <img src="https://img.shields.io/badge/Offense-Pentesting_•_Exploit_Dev_•_Malware_Research-E74C3C?style=flat-square" alt="Offensive"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Defense-SOC_Ops_•_SIEM_•_Threat_Intel-3498DB?style=flat-square" alt="Defensive"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Engineering-Full_Stack_•_Secure_SLC-2ECC71?style=flat-square" alt="Engineering"/>
-      </p>
-    </td>
+    <td><img src="https://img.shields.io/badge/🔭_Working_On-E74C3C?style=for-the-badge" alt="Working On"/></td>
+    <td>Penetration Testing, Bug Bounty Hunting, Secure Software Development</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/🌱_Learning-3498DB?style=for-the-badge" alt="Learning"/></td>
+    <td>Advanced Security Techniques, Exploit Development, AI-Driven Security Automation</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/💼_Projects-A855F7?style=for-the-badge" alt="Projects"/></td>
+    <td>Open Source Software &amp; Paid Full-Stack Web Development</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/💡_Passionate_About-E74C3C?style=for-the-badge" alt="Passion"/></td>
+    <td>Cybersecurity, Ethical Hacking, Building Secure Applications</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/🎯_Focus-3498DB?style=for-the-badge" alt="Focus"/></td>
+    <td>Vulnerability Assessment, Web App Security, SIEM Detection Engineering, Secure Coding</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/🤝_Collab-A855F7?style=for-the-badge" alt="Collab"/></td>
+    <td>Joint offensive/defensive work via <a href="https://github.com/Pause-n-Clause">@Pause-n-Clause</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/🌍_Community-E74C3C?style=for-the-badge" alt="Community"/></td>
+    <td>Founder of <a href="https://github.com/Pause-n-Clause">ARZENs</a> (SECP-Registered) | Former Member, AUCSS Cyber Skills Club</td>
   </tr>
 </table>
 
@@ -56,72 +69,72 @@
 
 ### 🛡️ Offensive Security
 <div align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux" height="40"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite" height="40"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&amp;logo=nmap&amp;logoColor=white" alt="Nmap" height="40"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&amp;logo=metasploit&amp;logoColor=white" alt="Metasploit" height="40"/>
-  <img src="https://img.shields.io/badge/Nuclei-0A0E17?style=for-the-badge&amp;logo=nuclei&amp;logoColor=white" alt="Nuclei" height="40"/>
-  <img src="https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge&amp;logo=sqlmap&amp;logoColor=white" alt="SQLmap" height="40"/>
-  <img src="https://img.shields.io/badge/Maltego-1B1F23?style=for-the-badge&amp;logo=maltego&amp;logoColor=white" alt="Maltego" height="40"/>
-  <img src="https://img.shields.io/badge/FLARE_VM-FF6600?style=for-the-badge&amp;logo=flare&amp;logoColor=white" alt="FLARE VM" height="40"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" alt="Burp"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&amp;logo=nmap&amp;logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&amp;logo=metasploit&amp;logoColor=white" alt="Msf"/>
+  <img src="https://img.shields.io/badge/Nuclei-0A0E17?style=for-the-badge&amp;logo=nuclei&amp;logoColor=white" alt="Nuclei"/>
+  <img src="https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge&amp;logo=sqlmap&amp;logoColor=white" alt="SQLmap"/>
+  <img src="https://img.shields.io/badge/Maltego-1B1F23?style=for-the-badge&amp;logo=maltego&amp;logoColor=white" alt="Maltego"/>
+  <img src="https://img.shields.io/badge/FLARE_VM-FF6600?style=for-the-badge&amp;logo=flare&amp;logoColor=white" alt="FLARE"/>
 </div>
 
 ### 🔒 Defensive Security
 <div align="center">
-  <img src="https://img.shields.io/badge/Wazuh-1C7CB0?style=for-the-badge&amp;logo=wazuh&amp;logoColor=white" alt="Wazuh" height="40"/>
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&amp;logo=elasticsearch&amp;logoColor=white" alt="ELK Stack" height="40"/>
-  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&amp;logo=pfSense&amp;logoColor=white" alt="pfSense" height="40"/>
-  <img src="https://img.shields.io/badge/OpenCTI-1A73E8?style=for-the-badge&amp;logo=opencti&amp;logoColor=white" alt="OpenCTI" height="40"/>
-  <img src="https://img.shields.io/badge/Suricata-6DB33F?style=for-the-badge&amp;logo=suricata&amp;logoColor=white" alt="Suricata" height="40"/>
-  <img src="https://img.shields.io/badge/Nessus-00A4E4?style=for-the-badge&amp;logo=tenable&amp;logoColor=white" alt="Nessus" height="40"/>
-  <img src="https://img.shields.io/badge/MISP-6B4C9A?style=for-the-badge&amp;logo=misp&amp;logoColor=white" alt="MISP" height="40"/>
+  <img src="https://img.shields.io/badge/Wazuh-1C7CB0?style=for-the-badge&amp;logo=wazuh&amp;logoColor=white" alt="Wazuh"/>
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&amp;logo=elasticsearch&amp;logoColor=white" alt="ELK"/>
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&amp;logo=pfSense&amp;logoColor=white" alt="pfSense"/>
+  <img src="https://img.shields.io/badge/OpenCTI-1A73E8?style=for-the-badge&amp;logo=opencti&amp;logoColor=white" alt="OpenCTI"/>
+  <img src="https://img.shields.io/badge/Suricata-6DB33F?style=for-the-badge&amp;logo=suricata&amp;logoColor=white" alt="Suricata"/>
+  <img src="https://img.shields.io/badge/Nessus-00A4E4?style=for-the-badge&amp;logo=tenable&amp;logoColor=white" alt="Nessus"/>
+  <img src="https://img.shields.io/badge/MISP-6B4C9A?style=for-the-badge&amp;logo=misp&amp;logoColor=white" alt="MISP"/>
 </div>
 
 ### 💻 Programming Languages
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Assembly_x86/x64-00599C?style=for-the-badge&amp;logo=intel&amp;logoColor=white" alt="Assembly" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&amp;logo=intel&amp;logoColor=white" alt="Assembly"/>
 </div>
 
 ### 🎨 Frontend Development
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=black" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"/>
 </div>
 
 ### ⚙️ Backend Development
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx"/>
 </div>
 
 ### 🗄️ Databases
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&amp;logo=elasticsearch&amp;logoColor=white" alt="ES"/>
 </div>
 
 ### 🐳 DevOps & Infrastructure
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -134,7 +147,7 @@
       <h3>🛠️ V.A.M.P.I.R.E</h3>
       <p><b>Dual-purpose network toolkit</b> — enterprise latency stabilization + offensive pentesting &amp; DDoS simulation</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&amp;logo=next.js" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&amp;logo=nextdotjs" alt="Next.js"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react" alt="React"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python" alt="Python"/>
         <img src="https://img.shields.io/badge/Suricata-6DB33F?style=flat-square&amp;logo=suricata" alt="Suricata"/>
@@ -185,7 +198,7 @@
       <h3>💬 LAN-Chat</h3>
       <p><b>Cross-device LAN communication</b> — C++ backend with OpenMP and lightweight web frontend</p>
       <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=c%2B%2B" alt="C++"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus" alt="C++"/>
         <img src="https://img.shields.io/badge/OpenMP-1E88E5?style=flat-square" alt="OpenMP"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript" alt="JS"/>
       </p>
@@ -200,20 +213,20 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=MDK-4203&amp;show_icons=true&amp;theme=tokyonight&amp;title_color=A855F7&amp;icon_color=A855F7&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;hide_border=true&amp;ring_color=A855F7" alt="GitHub Stats" height="170"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=MDK-4203&amp;show_icons=true&amp;theme=radical&amp;title_color=A855F7&amp;icon_color=E74C3C&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;hide_border=true" alt="GitHub Stats" height="170"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=MDK-4203&amp;theme=tokyonight&amp;hide_border=true&amp;ring_color=A855F7&amp;fire=A855F7&amp;dates=58A6FF" alt="GitHub Streak" height="170"/>
+      <img src="https://streak-stats.demolab.com?user=MDK-4203&amp;theme=radical&amp;hide_border=true&amp;ring_color=A855F7&amp;fire=E74C3C&amp;dates=3498DB" alt="GitHub Streak" height="170"/>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDK-4203&amp;layout=donut-vertical&amp;theme=tokyonight&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;hide_border=true&amp;langs_count=8&amp;hide_title=false" alt="Top Languages" height="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDK-4203&amp;layout=donut-vertical&amp;theme=radical&amp;title_color=A855F7&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;hide_border=true&amp;langs_count=8" alt="Top Languages" height="300"/>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDK-4203&amp;bg_color=0d1117&amp;color=A855F7&amp;line=6D28D9&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" alt="Contribution Graph" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDK-4203&amp;bg_color=0d1117&amp;color=A855F7&amp;line=E74C3C&amp;point=3498DB&amp;area=true&amp;hide_border=true" alt="Contribution Graph" width="100%"/>
     </td>
   </tr>
 </table>
@@ -232,13 +245,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mirza-daniyal-khan/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color=%230A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color=%233498DB" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Pause-n-Clause" target="_blank">
-    <img src="https://img.shields.io/badge/Pause_n_Clause-Org?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=%236D28D9" alt="Pause-n-Clause"/>
+    <img src="https://img.shields.io/badge/Pause_n_Clause-Org?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=%23A855F7" alt="Pause-n-Clause"/>
   </a>
   <a href="mailto:mirzadaniyalkhan24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mirzadaniyalkhan24?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;color=%23A855F7" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-mirzadaniyalkhan24?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;color=%23E74C3C" alt="Email"/>
   </a>
 </p>
 
