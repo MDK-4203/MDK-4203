@@ -15,20 +15,35 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MDK-4203?tab=followers">
-    <img src="https://img.shields.io/github/followers/MDK-4203?label=Followers&amp;style=social&amp;logo=github&amp;labelColor=A855F7&amp;color=6D28D9" alt="GitHub Followers"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MDK-4203&amp;style=flat-square&amp;color=A855F7&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 30" width="900" height="30">
+    <defs>
+      <linearGradient id="ng" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#E74C3C"/>
+        <stop offset="50%" stop-color="#3498DB"/>
+        <stop offset="100%" stop-color="#A855F7"/>
+      </linearGradient>
+      <filter id="glow" x="-5%" y="-300%" width="110%" height="700%">
+        <feGaussianBlur stdDeviation="4" result="b1"/>
+        <feGaussianBlur stdDeviation="10" result="b2"/>
+        <feGaussianBlur stdDeviation="20" result="b3"/>
+        <feMerge>
+          <feMergeNode in="b3"/>
+          <feMergeNode in="b2"/>
+          <feMergeNode in="b1"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <!-- Outer neon bloom -->
+    <rect x="0" y="11" width="900" height="8" rx="4" fill="url(#ng)" filter="url(#glow)" opacity="0.7"/>
+    <!-- Bright gradient core -->
+    <rect x="0" y="13" width="900" height="4" rx="2" fill="url(#ng)"/>
+    <!-- White-hot center -->
+    <rect x="0" y="14" width="900" height="2" rx="1" fill="white" opacity="0.6"/>
+  </svg>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=E74C3C,3498DB,A855F7&amp;height=40&amp;section=header&amp;text=%20&amp;fontSize=1&amp;fontColor=%230d1117"/>
-
 ## 📝 About Me
-
-```text
-Purple Team practitioner and Cybersecurity student at Air University,
-focused on bridging offensive and defensive operations.
-```
 
 I don't just secure systems — **I break them first.** I blend offensive tradecraft like malware research and exploit development with defensive insights like SIEM detection engineering and AI-driven security automation. I learn by **building**: shipping secure full-stack portals with OWASP Top 10 controls baked in, architecting CTF competition platforms from scratch, developing dual-purpose network toolkits, and deploying open-source SOC stacks for real startups.
 
@@ -244,7 +259,7 @@ I don't just secure systems — **I break them first.** I blend offensive tradec
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=E74C3C,3498DB,A855F7&amp;height=40&amp;section=header&amp;text=%20&amp;fontSize=1&amp;fontColor=%230d1117"/>
 
-## 🌐 Where to Find Me
+## 🌏 Where to Find Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mirza-daniyal-khan/" target="_blank">
@@ -266,4 +281,4 @@ I don't just secure systems — **I break them first.** I blend offensive tradec
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=E74C3C,3498DB,A855F7&amp;height=100&amp;section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;customColorList=E74C3C,3498DB,A855F7&amp;height=100&amp;section=footer"/>
